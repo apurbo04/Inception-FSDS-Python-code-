@@ -1,0 +1,5 @@
+a = 3 
+s = 5
+result = a+s 
+
+print(result)
